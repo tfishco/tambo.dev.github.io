@@ -1,0 +1,18 @@
+body {
+  background-color: #2b333b;
+}
+
+.content {
+  text-align: center;
+  padding: 220px 0;
+}
+
+.tea-fish {
+  font-size: 56px;
+}
+
+.message {
+  font-size: 14px;
+  font-family: "Courier New";
+  color: #f6556c;
+}
